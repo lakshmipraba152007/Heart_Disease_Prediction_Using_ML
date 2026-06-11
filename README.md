@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Predictor Using ML
+# ❤️ Heart Disease Prediction Using ML
 
 A machine learning project that predicts the presence or absence of heart disease using logistic regression. This beginner-friendly implementation achieves **92.59% accuracy** on the test dataset.
 
